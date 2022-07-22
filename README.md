@@ -1,5 +1,5 @@
 ## About me
-Hi 👋 I'm Chris, I have had a passion for technology ever since I was a kid playing on my _**Game Boy**_ 🎮
+Hi I'm Chris, I have had a passion for technology ever since I was a kid playing on my _**Game Boy**_ 🎮
 
 Since then I've learnt a lot, from hosting my own static site with HTML/CSS/JavaScript, to learning Java & C# whilst making apps during Lockdown.
 
