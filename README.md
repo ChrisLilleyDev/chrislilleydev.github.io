@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## About me
+Hi 👋 I'm Chris, I have had a passion for technology ever since I was a kid playing on my _**Game Boy**_ 🎮
 
-You can use the [editor on GitHub](https://github.com/ChrisLilleyDev/chrislilleydev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Since then I've learnt a lot, from hosting my own static site with HTML/CSS/JavaScript, to learning Java & C# whilst making apps during Lockdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Working at ALL IN has been a great opportunity, one of the reasons being a chance to learn Angular and Firebase as I work in a fast-paced start-up enviroment, which has let me really push my ability to problem-solve, self-teach, and think outside the box.
 
-### Markdown
+### Technologies:
+- React & Angular
+- MySQL & MongoDB
+- Firebase & Node.js
+- Java & C#
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
+*Junior Programmer* @ **ALL IN**
 
-```markdown
-Syntax highlighted code block
+<sup>FEBRUARY 2022 - PRESENT</sup>
+- Created App features using Angular that connect to a Firebase server, and
+perform CRUD operations using that server's database
+- Created dynamic styling so the App was user-friendly on both tablet and web
+- Self taught Google BigQuery, Angular, and Firebase
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+*Digital Archive Assistant* @ **Medway Council**
 
-1. Numbered
-2. List
+<sup>APRIL 2021 - OCTOBER 2021</sup>
+- Digitised archive material, and embedded data into those digital copies
+- Ensured both originals and their digital copies were handled, secured, and registered correctly
+- Independently brought forward new streamlined workflows that saved time and reduced errors
 
-**Bold** and _Italic_ and `Code` text
+<br>
 
-[Link](url) and ![Image](src)
-```
+*Fraud Investigator* @ **Vanquis Bank**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<sup>JANUARY 2020 - MARCH 2020</sup>
+- Manipulated databases with MySQL to check for patterns of fraud
+- Documented findings using inhouse language, to effectively communicate across teams
 
-### Jekyll Themes
+## Projects
+*To be added*:
+- C# A* pathfinding algorithm
+- React MongoDB Atlas web app 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisLilleyDev/chrislilleydev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact
+[Connect with me on LinkedIn](https://www.linkedin.com/in/chris-lilley-dev)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Send me an email](mailto:chris.lilley.dev@gmail.com)
