@@ -45,7 +45,9 @@ Some of my favourite projects, more available on my [GitHub](https://github.com/
 The core of this project is an implementation of the A* algorithm, used to find the shortest path if one is available.<br>
 Built with Unity, this project is a small game that allows the user to take turns moving and attacking units, all while being able to customise the terrain.<br>
 Below is an extract of the code containing the main part of the algorithm:
-```Csharp
+
+```csharp
+
 private List<Tile> MakePath(Tile destination) {
     PathNode[,] grid = new PathNode[destination.grid.width, destination.grid.height];
     for(int x = 0; x < destination.grid.width; x++) {
@@ -94,7 +96,9 @@ private List<Tile> MakePath(Tile destination) {
     }
     return null;
 }
+
 ```
+
 *To be added*:
 - React MongoDB Atlas web App
 
