@@ -19,6 +19,7 @@
   --clr-surface: #000;
   --clr-blkgry1: #121212;
   --clr-blkgry2: #212121;
+  --clr-blkgry3: #303030;
 
   --clr-white: #fffff0;
   --clr-whtgry1: #ededde;
@@ -27,6 +28,7 @@
   --clr-primary: #00cdd4;
   --clr-secondry: #7e3ff2;
   --clr-tertiary: #00db87;
+  --clr-error: #cf6679;
 }
 
 *,
@@ -721,6 +723,77 @@ li>a:hover::before {
 
   .FormMessage {
     height: 12em;
+  }
+}
+
+.Snackbar {
+  visibility: hidden;
+  position: fixed;
+  left: 50%;
+  bottom: 1.2em;
+  z-index: 2;
+  min-width: 14em;
+  padding: .5em;
+  margin-left: -7em;
+  outline: var(--clr-whtgry2) solid .1em;
+  outline-offset: -.3em;
+  background-color: var(--clr-blkgry3);
+}
+
+.Snackbar::before,
+.Snackbar::after {
+  content: '';
+  position: absolute;
+  width: 2em;
+  height: 2em;
+  border: .1em solid var(--clr-whtgry2);
+}
+
+.Snackbar::before {
+  top: 0;
+  left: 0;
+  border-width: .1em 0 0 .1em;
+}
+
+.Snackbar::after {
+  bottom: 0;
+  right: 0;
+  border-width: 0 .1em .1em 0;
+}
+
+.Snackbar_Success {
+  visibility: visible;
+  animation: fadein .5s, fadeout .5s 2.5s;
+  color: var(--clr-tertiary);
+}
+
+.Snackbar_Error {
+  visibility: visible;
+  animation: fadein .5s, fadeout .5s 2.5s;
+  color: var(--clr-error);
+}
+
+@keyframes fadein {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+
+  to {
+    bottom: 1.2em;
+    opacity: 1;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    bottom: 1.2em;
+    opacity: 1;
+  }
+
+  to {
+    bottom: 0;
+    opacity: 0;
   }
 }
 
