@@ -11,6 +11,7 @@ export default function Projects() {
     <section id="Projects">
       <h1 className="SectionHeader">Projects</h1>
       <div className="Projects-Container">
+
         <div className="Project">
           <div className="Project-Face">
             <div className="Project-Tags">
@@ -62,10 +63,6 @@ export default function Projects() {
           </div>
         </div>
 
-        <div className="Project">
-          <div className="Project-Face"></div>
-          <div className="Project-Body"></div>
-        </div>
       </div>
     </section>
   )
