@@ -650,7 +650,7 @@ li>a:hover::before {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  padding: 4em 0 0;
+  padding: 4em 0 2em;
 }
 
 .Contact-Form {
