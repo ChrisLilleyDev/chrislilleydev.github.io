@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.89937a6f.css",
-    "main.js": "/static/js/main.0feed700.js",
+    "main.css": "/static/css/main.94060819.css",
+    "main.js": "/static/js/main.504bee7d.js",
     "static/media/discoverAfrica.png": "/static/media/discoverAfrica.1c149d3fce8fe2294916.png",
     "static/media/pathfinding.png": "/static/media/pathfinding.8b50a3f72b0e2eac7dd2.png",
-    "static/media/mySql.svg": "/static/media/mySql.4ea6f9967e1a726dd2952832ad559104.svg",
-    "static/media/php.svg": "/static/media/php.2eea09c513c2a0a64d37fbfc023e2b3b.svg",
-    "static/media/email.svg": "/static/media/email.e0e78c5b618f39fb03f6d50a78e093aa.svg",
+    "static/media/mySql.svg": "/static/media/mySql.01cb41e820dcdd6f8d6b32c5f617ad1e.svg",
+    "static/media/php.svg": "/static/media/php.743afaba60fa5466a0f7320c9b4b51c5.svg",
+    "static/media/email.svg": "/static/media/email.fa6d3f912d51238b95b73598e46e10f7.svg",
     "static/media/github.svg": "/static/media/github.0cd89f6ea6747d416b1befb6f4730fef.svg",
     "static/media/cSharp.svg": "/static/media/cSharp.dfc6a428ff2846365d4da23638d0c0b0.svg",
     "index.html": "/index.html",
-    "static/media/bootstrap.svg": "/static/media/bootstrap.66bbfbdfacde12c2d991016b711b4ff0.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.5901111dcfc5c0484dc4fdd2399db391.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.7df90c2727908e7caa6b01e008cf38fd.svg",
-    "main.89937a6f.css.map": "/static/css/main.89937a6f.css.map",
-    "main.0feed700.js.map": "/static/js/main.0feed700.js.map"
+    "main.94060819.css.map": "/static/css/main.94060819.css.map",
+    "main.504bee7d.js.map": "/static/js/main.504bee7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.89937a6f.css",
-    "static/js/main.0feed700.js"
+    "static/css/main.94060819.css",
+    "static/js/main.504bee7d.js"
   ]
 }
