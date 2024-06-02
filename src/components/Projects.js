@@ -52,9 +52,10 @@ export default function Projects() {
             <div className="Project-Text">
               <div className="Project-Heading">C# Pathfinding</div>
               <div className="Project-Description">
-                Using Php and Bootstrap, this website is responsive throughout and serves
-                dynamically generated pages from an SQL database of 30 animals. All the animals can be browsed
-                on the animals page using pagination.
+                Written in C#, this project implements the A* pathfinding algorithm in a Unity game for unit pathing.
+                Using a HashSet for the closed list saves time on searching, and to improve efficiency for the neighbour checking
+                method edges are stored in Lists per axis and eliminated if blocked by terrain, thus preventing redundant checks on blocked
+                diagonals.
               </div>
             </div>
             <div className="Project-Links">
